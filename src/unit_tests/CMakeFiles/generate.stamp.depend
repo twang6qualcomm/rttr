@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/aaa/rttr-master/src/unit_tests/CMakeLists.txt
+C:/aaa/rttr-master/src/unit_tests/unit_tests.cmake
+C:/aaa/rttr-master/src/unit_tests/version.rc.in

@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/aaa/rttr-master/src/examples/scripting/CMakeLists.txt
+C:/aaa/rttr-master/src/examples/scripting/files.cmake
+C:/aaa/rttr-master/src/examples/scripting/version.rc.in

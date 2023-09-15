@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\misc\test_misc.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\misc\array_range_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\misc\string_view_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\misc\enum_flags_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\misc\library_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_access_level_test.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_misc_test.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_class_inheritance.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_class_invoke_wrapper.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_member_function.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_member_object.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_order_test.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_global_function.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\property\property_global_object.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\type\test_type.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\type\test_type_names.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\type\type_prop_meth_invoke.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\destructor\destructor_invoke_test.cpp">
+      <Filter>destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\destructor\destructor_misc_test.cpp">
+      <Filter>destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_access_level_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_default_arg_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_param_info_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_retrieve_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_invoke_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_misc_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\constructor\constructor_query_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\enumeration\enumeration_conversion.cpp">
+      <Filter>enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\enumeration\enumeration_misc.cpp">
+      <Filter>enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\instance\instance_test.cpp">
+      <Filter>instance</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_invoke_defaults_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_access_level_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\test_method_reflection.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_default_arg_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_misc_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_invoke_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_order_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_param_info_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\method\method_query_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_assign_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_ctor_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cmp_equal_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cmp_less_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cmp_greater_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cmp_less_or_equal.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cmp_greater_or_equal.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_misc_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_cast_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_bool.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_int8.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_int16.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_int32.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_int64.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_uint8.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_uint16.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_uint32.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_uint64.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_double.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_float.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_string.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant\variant_conv_to_enum.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant_associative_view\variant_associative_view_test.cpp">
+      <Filter>variant_associative_view</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\variant_sequential_view\variant_sequential_view_test.cpp">
+      <Filter>variant_sequential_view</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\visitor\visitor_test.cpp">
+      <Filter>visitor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\unit_tests\visitor\visitor_test_class.cpp">
+      <Filter>visitor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\test_classes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\method\test_method_reflection.h">
+      <Filter>method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\type\test_type.h">
+      <Filter>type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\variant\test_enums.h">
+      <Filter>variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\visitor\my_visitor.h">
+      <Filter>visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\unit_tests\visitor\visitor_test_class.h">
+      <Filter>visitor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\aaa\rttr-master\src\unit_tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\aaa\rttr-master\vs2022\src\unit_tests\version.rc">
+      <Filter>Generated Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{7093ACE1-B7BB-3F06-8B73-1EB4042A3CDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9247EDD8-3EEA-3941-83D4-394D215E8B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{18E70372-BBCC-3F3F-90C2-79FD420E704F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="constructor">
+      <UniqueIdentifier>{041B795D-2BC6-39E3-AD03-E0A7C0F59055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="destructor">
+      <UniqueIdentifier>{0D6684D8-787D-3560-A3A8-A832F298BC02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="enumeration">
+      <UniqueIdentifier>{C0CFC82D-2ACB-38FB-A030-40EC7343749B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="instance">
+      <UniqueIdentifier>{6282F8CA-D1A0-3F2F-883B-D4CAA6D4F495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="method">
+      <UniqueIdentifier>{A1D4F42E-F686-38F9-A5ED-45566BD1EF58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="misc">
+      <UniqueIdentifier>{8368E05B-51EB-3886-84C7-23AC656ADEC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="property">
+      <UniqueIdentifier>{DE1FE6C0-3DB8-3CED-B7DD-0E7439B03C3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="type">
+      <UniqueIdentifier>{4D20BD41-3F07-3760-9E47-3540D848DFC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant">
+      <UniqueIdentifier>{D156FB96-0D1F-3DDB-BD8B-B20B18315E2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant_associative_view">
+      <UniqueIdentifier>{BCE1C984-2852-3A45-9FE2-D2DACA5293CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant_sequential_view">
+      <UniqueIdentifier>{C1CB5BD1-D646-3BDC-9AAB-FEC5F8B06236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="visitor">
+      <UniqueIdentifier>{9180B493-12F2-31F9-BBF3-D447097020B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

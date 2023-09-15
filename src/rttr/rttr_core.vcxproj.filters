@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\constructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\destructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\enumeration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\method.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\parameter_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\policy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\property.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\registration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\type.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\variant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\variant_associative_view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\variant_sequential_view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\visitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_equal.cpp">
+      <Filter>detail\comparison</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_less.cpp">
+      <Filter>detail\comparison</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\misc\standard_types.cpp">
+      <Filter>detail\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\conversion\std_conversion_functions.cpp">
+      <Filter>detail\conversion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\constructor\constructor_wrapper_base.cpp">
+      <Filter>detail\constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\destructor\destructor_wrapper_base.cpp">
+      <Filter>detail\destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enumeration_helper.cpp">
+      <Filter>detail\enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enumeration_wrapper_base.cpp">
+      <Filter>detail\enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\library\library_win.cpp">
+      <Filter>detail\library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\library\library_unix.cpp">
+      <Filter>detail\library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\method\method_wrapper_base.cpp">
+      <Filter>detail\method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_info_wrapper_base.cpp">
+      <Filter>detail\parameter_info</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_base.cpp">
+      <Filter>detail\property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_executer.cpp">
+      <Filter>detail\registration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_state_saver.cpp">
+      <Filter>detail\registration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\type\type_data.cpp">
+      <Filter>detail\type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\type\type_register.cpp">
+      <Filter>detail\type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_compare.cpp">
+      <Filter>detail\variant</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\aaa\rttr-master\vs2022\src\rttr\detail\base\version.h">
+      <Filter>detail\base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\access_levels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\argument.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\array_range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\associative_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\constructor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\destructor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\enumeration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\enum_flags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\filter_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\instance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\method.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\policy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\property.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\parameter_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\registration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\registration_friend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\sequential_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\string_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\rttr_cast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\rttr_enable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\type_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\variant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\variant_associative_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\variant_sequential_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\visitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\wrapper_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\base\core_prerequisites.h">
+      <Filter>detail\base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\comparable_types.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_array_less.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_array_less_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_array_equal.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_array_equal_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_equal.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_equal_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_less.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\comparison\compare_less_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\constructor\constructor_invoker.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\constructor\constructor_wrapper.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\constructor\constructor_wrapper_defaults.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\constructor\constructor_wrapper_base.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\conversion\std_conversion_functions.h">
+      <Filter>detail\conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\conversion\number_conversion.h">
+      <Filter>detail\conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\default_arguments\default_arguments.h">
+      <Filter>detail\default_arguments</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\default_arguments\invoke_with_defaults.h">
+      <Filter>detail\default_arguments</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\destructor\destructor_wrapper.h">
+      <Filter>detail\destructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\destructor\destructor_wrapper_base.h">
+      <Filter>detail\destructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enumeration_helper.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enumeration_wrapper.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enumeration_wrapper_base.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\enumeration\enum_data.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\filter\filter_item_funcs.h">
+      <Filter>detail\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\argument_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\array_range_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\associative_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\enum_flags_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\instance_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\rttr_cast_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\sequential_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\string_view_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\impl\wrapper_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\library\library_p.h">
+      <Filter>detail\library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\metadata\metadata.h">
+      <Filter>detail\metadata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\metadata\metadata_handler.h">
+      <Filter>detail\metadata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\method\method_accessor.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\method\method_invoker.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\method\method_wrapper.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\method\method_wrapper_base.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\argument_wrapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\argument_extractor.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\class_item_mapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\data_address_container.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\flat_map.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\flat_multimap.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\function_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\iterator_wrapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\misc_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\register_wrapper_mapper_conversion.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\sequential_container_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\std_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\template_type_trait.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\template_type_trait_impl.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\misc\utility.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_infos.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_infos_compare.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_names.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_info_wrapper_base.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\parameter_info\parameter_info_wrapper.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\policies\prop_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\policies\meth_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\policies\ctor_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_accessor.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_base.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_func.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_member_func.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_member_object.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\property\property_wrapper_object.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\bind_types.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\bind_impl.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\register_base_class_from_accessor.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_impl.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_executer.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_manager.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\registration\registration_state_saver.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\accessor_type.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\base_classes.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\get_create_variant_func.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\get_derived_info_func.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_converter.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_comparator.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_data.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_register.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_impl.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_name.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_register_p.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\type\type_string_utils.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_compare.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_data.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_data_converter.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_data_policy.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant\variant_impl.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_associative_view\variant_associative_view_private.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_associative_view\variant_associative_view_creator.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_associative_view\variant_associative_view_creator_impl.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_sequential_view\variant_sequential_view_private.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_sequential_view\variant_sequential_view_creator_impl.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\variant_sequential_view\variant_sequential_view_creator.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\visitor_iterator.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\create_type_visitor_func.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\create_type_visitor_func_impl.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\method_visitor_invoker.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\constructor_visitor_invoker.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\property_visitor_invoker.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\visitor_impl.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\type_visitor_invoker.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\aaa\rttr-master\src\rttr\detail\visitor\visitor_registration.h">
+      <Filter>detail\visitor</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\aaa\rttr-master\src\rttr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\aaa\rttr-master\src\rttr\registration" />
+    <None Include="C:\aaa\rttr-master\src\rttr\registration_friend" />
+    <None Include="C:\aaa\rttr-master\src\rttr\type" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\aaa\rttr-master\vs2022\src\rttr\detail\base\version.rc">
+      <Filter>Generated Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{7093ACE1-B7BB-3F06-8B73-1EB4042A3CDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9247EDD8-3EEA-3941-83D4-394D215E8B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{18E70372-BBCC-3F3F-90C2-79FD420E704F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail">
+      <UniqueIdentifier>{1CB3A9CC-5A3E-345B-8B87-7B384BBC6FCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\base">
+      <UniqueIdentifier>{25B8FCB5-832D-3DEB-8026-FE7ED5792BA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\comparison">
+      <UniqueIdentifier>{1DBF6856-305F-359A-9034-A52DBBD6861F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\constructor">
+      <UniqueIdentifier>{068D3DDB-15FC-3DAE-9D4C-04A5D8C2740A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\conversion">
+      <UniqueIdentifier>{C80F82B3-546D-39BB-8FA9-8EB88B7C9D7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\default_arguments">
+      <UniqueIdentifier>{AC49A5DE-A8EB-3DF1-892D-40C1D7FD4671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\destructor">
+      <UniqueIdentifier>{18B79472-D4F2-31D5-B2A0-77BC7AEAD3D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\enumeration">
+      <UniqueIdentifier>{4FE3C1C7-BC4B-3118-A85D-421C96326C42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\filter">
+      <UniqueIdentifier>{126CD235-3D87-3E3A-A639-6745F7D20226}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\impl">
+      <UniqueIdentifier>{400A402C-C666-30B4-B4D1-4F2E72004D13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\library">
+      <UniqueIdentifier>{76981FF9-8259-3879-929C-EE1326A2C336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\metadata">
+      <UniqueIdentifier>{0DA775EC-B5F7-37C2-AC7F-F8484E0C69D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\method">
+      <UniqueIdentifier>{F80BAE52-E4E6-3E90-A8E4-AB68D8F44E30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\misc">
+      <UniqueIdentifier>{23ACCA47-B78D-3437-A4D9-6DEBC893819C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\parameter_info">
+      <UniqueIdentifier>{CCC5F330-D881-35EA-A51E-88463D19BB75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\policies">
+      <UniqueIdentifier>{484D204C-290E-3E16-AE69-4C7F1A7F6E17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\property">
+      <UniqueIdentifier>{5E419D06-5E39-3EBC-8585-79006D17D99D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\registration">
+      <UniqueIdentifier>{C1A347A7-3B26-3383-92B6-DCA41E0A86CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\type">
+      <UniqueIdentifier>{B36F7543-FB15-3193-9287-0112F10A84E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant">
+      <UniqueIdentifier>{DC43D080-DFF9-34A9-81E9-05B841667A24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant_associative_view">
+      <UniqueIdentifier>{0EDC538C-0DA8-36E8-A96F-00E297057B87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant_sequential_view">
+      <UniqueIdentifier>{C9C9C063-3823-3D4C-AA3F-96EB02866C87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\visitor">
+      <UniqueIdentifier>{8899B3F1-4C25-371F-96F3-25CD1060588A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/aaa/rttr-master/src/rttr/CMakeLists.txt
+C:/aaa/rttr-master/src/rttr/detail/base/version.h.in
+C:/aaa/rttr-master/src/rttr/detail/base/version.rc.in
+C:/aaa/rttr-master/src/rttr/rttr.cmake
